@@ -1512,7 +1512,7 @@ section {
 
 @media (max-width: 900px) {
   .hero {
-    background-image: url(../img/hero-bg-mobile.JPG) !important;
+    background-image: url(../img/hero-bg-mobile.png) !important;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
