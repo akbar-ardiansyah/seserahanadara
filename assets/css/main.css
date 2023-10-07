@@ -1505,14 +1505,14 @@ section {
   position: relative;
   min-height: 100vh;
   padding: 160px 0 60px 0;
-  background-image: url(../img/hero-bg.jpg);
+  background-image: url(assets/img/hero-bg.jpg);
   background-attachment: fixed;
   background-position: center;
 }
 
 @media (max-width: 900px) {
   .hero {
-    background-image: url(../img/hero-bg-mobile.jpg) !important;
+    background-image: url(assets/img/hero-bg-mobile.jpg) !important;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
